@@ -28,7 +28,7 @@ switch(ch)
  printf("divide=%f",a/b);
  break;
  }
- Default:
+ default:
  {
  printf("Invalid operator");
  }
